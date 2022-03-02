@@ -12,7 +12,7 @@ Sie ist vor allem für die `Darstellung` der Daten aus dem Model und die `Entgeg
 ### Controller
 Der Controller ***verbindet*** das Modell und die View miteinander und ist für `Kommunikation` zwischen diesen zwei Sachen zuständig.</br>
 Er nimmt ***Benutzeraktionen*** entgegen, wertet diese aus und agiert entsprechend.
-
+<br/><br/>
 ![](mvc.png)
-
-``Währungskurse entnommen von: [https://www.exchange-rates.org](https://www.exchange-rates.org)``
+<br/><br/>
+**``Exchange rates taken from:``** [https://www.exchange-rates.org](https://www.exchange-rates.org)
