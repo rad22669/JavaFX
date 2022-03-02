@@ -1,5 +1,5 @@
 # JavaFX
-Graphical User Interfaces with JavaFX
+Examples of Graphical User Interfaces with Java
 
 ## Synchronisieren des Repositories in einen Ordner
 
